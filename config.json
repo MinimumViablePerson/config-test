@@ -4,7 +4,10 @@
   "address": "123 Hello",
   "hungry": false,
   "happy": false,
-  "agreeToTerms": true,
+  "agreeToTerms": false,
   "age": 25,
-  "tags": ["one", "two"]
+  "tags": [
+    "one",
+    "two"
+  ]
 }
