@@ -1,0 +1,9 @@
+{
+  "firstName": "",
+  "lastName": "",
+  "address": "",
+  "hungry": false,
+  "happy": false,
+  "agreeToTerms": false,
+  "age": 0
+}
