@@ -1,9 +1,9 @@
 {
-  "firstName": "",
-  "lastName": "",
-  "address": "",
+  "firstName": "Catherine",
+  "lastName": "Li",
+  "address": "123 Hello",
   "hungry": false,
   "happy": false,
-  "agreeToTerms": false,
-  "age": 0
+  "agreeToTerms": true,
+  "age": 25
 }
